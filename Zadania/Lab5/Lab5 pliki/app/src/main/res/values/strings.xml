@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab5 projekt</string>
+
+    <string-array name="songs">
+        <item>bylas_dla_mnie_wszystkim</item>
+        <item>czerwone_wino</item>
+        <item>daddy_cool</item>
+        <item>dark_horse</item>
+    </string-array>
+
+    <string-array name="video">
+        <item>chomik_na_kamerce</item>
+        <item>zepsuty_chomik</item>
+        <item>pawel_jumper</item>
+    </string-array>
+</resources>
