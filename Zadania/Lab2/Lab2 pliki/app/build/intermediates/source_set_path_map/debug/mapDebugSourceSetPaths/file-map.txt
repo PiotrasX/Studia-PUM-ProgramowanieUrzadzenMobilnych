@@ -1,0 +1,60 @@
+com.example.lab2projekt.app-emoji2-1.3.0-0 C:\Users\Piotr\.gradle\caches\transforms-4\0241520f93de717e05b0285a44f85f9c\transformed\emoji2-1.3.0\res
+com.example.lab2projekt.app-lifecycle-viewmodel-release-1 C:\Users\Piotr\.gradle\caches\transforms-4\0fbf87496e18ea79576c484f89caf017\transformed\lifecycle-viewmodel-release\res
+com.example.lab2projekt.app-lifecycle-livedata-core-ktx-2.8.6-2 C:\Users\Piotr\.gradle\caches\transforms-4\100b4ae9f864855843e0281ba7450ce8\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.example.lab2projekt.app-coordinatorlayout-1.1.0-3 C:\Users\Piotr\.gradle\caches\transforms-4\1050b5574ca23db003d82dbc1dd0fe40\transformed\coordinatorlayout-1.1.0\res
+com.example.lab2projekt.app-foundation-release-4 C:\Users\Piotr\.gradle\caches\transforms-4\1366ab725e00ad52b2769349854b3401\transformed\foundation-release\res
+com.example.lab2projekt.app-ui-tooling-data-release-5 C:\Users\Piotr\.gradle\caches\transforms-4\183339cea0be59317f43d85866406072\transformed\ui-tooling-data-release\res
+com.example.lab2projekt.app-material-ripple-release-6 C:\Users\Piotr\.gradle\caches\transforms-4\1fa50f7538bef29358f41eaf9109147a\transformed\material-ripple-release\res
+com.example.lab2projekt.app-ui-text-release-7 C:\Users\Piotr\.gradle\caches\transforms-4\254da6fa269dd7c099b60cb2bbd4a8b1\transformed\ui-text-release\res
+com.example.lab2projekt.app-annotation-experimental-1.4.0-8 C:\Users\Piotr\.gradle\caches\transforms-4\263577c919e220bf7c681e08507dee1c\transformed\annotation-experimental-1.4.0\res
+com.example.lab2projekt.app-lifecycle-livedata-core-2.8.6-9 C:\Users\Piotr\.gradle\caches\transforms-4\268c9bdf2645244a61131c16e48366b0\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.lab2projekt.app-appcompat-resources-1.7.0-10 C:\Users\Piotr\.gradle\caches\transforms-4\2d80421cff70b657a9a5b424552491c4\transformed\appcompat-resources-1.7.0\res
+com.example.lab2projekt.app-lifecycle-viewmodel-ktx-2.8.6-11 C:\Users\Piotr\.gradle\caches\transforms-4\35479342477075df825921d1b9f563f6\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.example.lab2projekt.app-runtime-saveable-release-12 C:\Users\Piotr\.gradle\caches\transforms-4\3dd06b666ddfcab4c85338389343ee26\transformed\runtime-saveable-release\res
+com.example.lab2projekt.app-drawerlayout-1.1.1-13 C:\Users\Piotr\.gradle\caches\transforms-4\40101e99bac7817ee4766ad0f5f148a2\transformed\drawerlayout-1.1.1\res
+com.example.lab2projekt.app-core-ktx-1.13.1-14 C:\Users\Piotr\.gradle\caches\transforms-4\4206f0da5ad4003664554bcf4ed0e7b9\transformed\core-ktx-1.13.1\res
+com.example.lab2projekt.app-savedstate-1.2.1-15 C:\Users\Piotr\.gradle\caches\transforms-4\4783d454206b67c1afd8df8cf04f81af\transformed\savedstate-1.2.1\res
+com.example.lab2projekt.app-ui-geometry-release-16 C:\Users\Piotr\.gradle\caches\transforms-4\4b9fced6f3d3e420d9d09cdbd4b32873\transformed\ui-geometry-release\res
+com.example.lab2projekt.app-lifecycle-livedata-2.8.6-17 C:\Users\Piotr\.gradle\caches\transforms-4\53f46032f545f29c50f749e5c5d874fb\transformed\lifecycle-livedata-2.8.6\res
+com.example.lab2projekt.app-animation-release-18 C:\Users\Piotr\.gradle\caches\transforms-4\5595bbbd010b7d2a6533c6c9ea4240dc\transformed\animation-release\res
+com.example.lab2projekt.app-activity-compose-1.9.3-19 C:\Users\Piotr\.gradle\caches\transforms-4\56380086c5efbe646d30fb187363561d\transformed\activity-compose-1.9.3\res
+com.example.lab2projekt.app-core-1.13.1-20 C:\Users\Piotr\.gradle\caches\transforms-4\578d2bdfa17734f50e5deb93a7e984c8\transformed\core-1.13.1\res
+com.example.lab2projekt.app-fragment-1.5.4-21 C:\Users\Piotr\.gradle\caches\transforms-4\57d6d3b30b779edba473946ff065e175\transformed\fragment-1.5.4\res
+com.example.lab2projekt.app-lifecycle-viewmodel-savedstate-2.8.6-22 C:\Users\Piotr\.gradle\caches\transforms-4\5861babe31b1c7e4b07d7c06677d3b68\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.lab2projekt.app-ui-util-release-23 C:\Users\Piotr\.gradle\caches\transforms-4\6035607ee1e4ba770fa1990271a935e1\transformed\ui-util-release\res
+com.example.lab2projekt.app-animation-core-release-24 C:\Users\Piotr\.gradle\caches\transforms-4\61e2d31a3d817b70c0ab0edccb66cf7a\transformed\animation-core-release\res
+com.example.lab2projekt.app-profileinstaller-1.3.1-25 C:\Users\Piotr\.gradle\caches\transforms-4\6497ac6c441fa53d19beeb191ab59783\transformed\profileinstaller-1.3.1\res
+com.example.lab2projekt.app-appcompat-1.7.0-26 C:\Users\Piotr\.gradle\caches\transforms-4\660ffdcd5348e48b983519ee4c3b82a7\transformed\appcompat-1.7.0\res
+com.example.lab2projekt.app-core-runtime-2.2.0-27 C:\Users\Piotr\.gradle\caches\transforms-4\6fb852f3c63d6d60102e863ced26f0a5\transformed\core-runtime-2.2.0\res
+com.example.lab2projekt.app-material3-release-28 C:\Users\Piotr\.gradle\caches\transforms-4\70cad29726198485328ee303c17d53d2\transformed\material3-release\res
+com.example.lab2projekt.app-customview-poolingcontainer-1.0.0-29 C:\Users\Piotr\.gradle\caches\transforms-4\7572af3566664c36978213851e30252e\transformed\customview-poolingcontainer-1.0.0\res
+com.example.lab2projekt.app-constraintlayout-2.1.4-30 C:\Users\Piotr\.gradle\caches\transforms-4\7c1687bbe2cc461df5a80f0c9f555ca2\transformed\constraintlayout-2.1.4\res
+com.example.lab2projekt.app-startup-runtime-1.1.1-31 C:\Users\Piotr\.gradle\caches\transforms-4\7c5420379ba4318e50d0466dca9a9911\transformed\startup-runtime-1.1.1\res
+com.example.lab2projekt.app-ui-tooling-preview-release-32 C:\Users\Piotr\.gradle\caches\transforms-4\7d3a648111775c3b7c4e27be7c864c9d\transformed\ui-tooling-preview-release\res
+com.example.lab2projekt.app-material-release-33 C:\Users\Piotr\.gradle\caches\transforms-4\7d697ac9b20ae00686f1bfbdd7eb061a\transformed\material-release\res
+com.example.lab2projekt.app-emoji2-views-helper-1.3.0-34 C:\Users\Piotr\.gradle\caches\transforms-4\7fe30ff3203d49c6d481d9ea8753ec5d\transformed\emoji2-views-helper-1.3.0\res
+com.example.lab2projekt.app-activity-ktx-1.9.3-35 C:\Users\Piotr\.gradle\caches\transforms-4\82174afc770a579854805aee7e0d6159\transformed\activity-ktx-1.9.3\res
+com.example.lab2projekt.app-activity-1.9.3-36 C:\Users\Piotr\.gradle\caches\transforms-4\876dd8b744a90dd5c3a466eeeab792df\transformed\activity-1.9.3\res
+com.example.lab2projekt.app-transition-1.2.0-37 C:\Users\Piotr\.gradle\caches\transforms-4\8f6a6c85170a36ba8f9ca5740e8ec64a\transformed\transition-1.2.0\res
+com.example.lab2projekt.app-ui-test-manifest-1.6.6-38 C:\Users\Piotr\.gradle\caches\transforms-4\9cffebc7a5206a92ede29c10663e045b\transformed\ui-test-manifest-1.6.6\res
+com.example.lab2projekt.app-foundation-layout-release-39 C:\Users\Piotr\.gradle\caches\transforms-4\af6f4fd505d3ad37b0bae650b19b3a75\transformed\foundation-layout-release\res
+com.example.lab2projekt.app-ui-tooling-release-40 C:\Users\Piotr\.gradle\caches\transforms-4\b23e9af74dc90198d87a0c704d285acb\transformed\ui-tooling-release\res
+com.example.lab2projekt.app-ui-graphics-release-41 C:\Users\Piotr\.gradle\caches\transforms-4\b2baba6426b60852845f8f19337f6d67\transformed\ui-graphics-release\res
+com.example.lab2projekt.app-savedstate-ktx-1.2.1-42 C:\Users\Piotr\.gradle\caches\transforms-4\b8998ae61ddf59d00445a375583b7fa0\transformed\savedstate-ktx-1.2.1\res
+com.example.lab2projekt.app-lifecycle-process-2.8.6-43 C:\Users\Piotr\.gradle\caches\transforms-4\b981ce729ce36ab40f70d37c2a18317d\transformed\lifecycle-process-2.8.6\res
+com.example.lab2projekt.app-material-1.10.0-44 C:\Users\Piotr\.gradle\caches\transforms-4\c1af9777b100c095df524c7c5b4f7473\transformed\material-1.10.0\res
+com.example.lab2projekt.app-lifecycle-runtime-release-45 C:\Users\Piotr\.gradle\caches\transforms-4\c31123d514153ea2345bd3a399bb00fd\transformed\lifecycle-runtime-release\res
+com.example.lab2projekt.app-runtime-release-46 C:\Users\Piotr\.gradle\caches\transforms-4\cc4ee0bc353b6f3e5b8ca7cbc55238e0\transformed\runtime-release\res
+com.example.lab2projekt.app-viewpager2-1.0.0-47 C:\Users\Piotr\.gradle\caches\transforms-4\d609baab09f48260a110329244224f78\transformed\viewpager2-1.0.0\res
+com.example.lab2projekt.app-material-icons-core-release-48 C:\Users\Piotr\.gradle\caches\transforms-4\dbe23a1f3eee866362efe2ba88853605\transformed\material-icons-core-release\res
+com.example.lab2projekt.app-cardview-1.0.0-49 C:\Users\Piotr\.gradle\caches\transforms-4\dc9befb6b344279959d2b20e573021ab\transformed\cardview-1.0.0\res
+com.example.lab2projekt.app-recyclerview-1.1.0-50 C:\Users\Piotr\.gradle\caches\transforms-4\e01509ac2ab50861acd24e35eff77f19\transformed\recyclerview-1.1.0\res
+com.example.lab2projekt.app-lifecycle-runtime-ktx-release-51 C:\Users\Piotr\.gradle\caches\transforms-4\eaa0bb72f0365bca2f572685d1810d2c\transformed\lifecycle-runtime-ktx-release\res
+com.example.lab2projekt.app-ui-release-52 C:\Users\Piotr\.gradle\caches\transforms-4\edd167b60b4716406cd449ce06d58689\transformed\ui-release\res
+com.example.lab2projekt.app-ui-unit-release-53 C:\Users\Piotr\.gradle\caches\transforms-4\fec6d3c073d1128f9db28f413b1edd3d\transformed\ui-unit-release\res
+com.example.lab2projekt.app-resValues-54 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab2\Lab2 pliki\app\build\generated\res\resValues\debug
+com.example.lab2projekt.app-packageDebugResources-55 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab2\Lab2 pliki\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lab2projekt.app-packageDebugResources-56 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab2\Lab2 pliki\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lab2projekt.app-debug-57 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab2\Lab2 pliki\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.lab2projekt.app-debug-58 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab2\Lab2 pliki\app\src\debug\res
+com.example.lab2projekt.app-main-59 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab2\Lab2 pliki\app\src\main\res
