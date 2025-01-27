@@ -1,0 +1,47 @@
+com.example.lab3projekt.app-ui-test-manifest-1.6.6-0 C:\Users\Piotr\.gradle\caches\transforms-4\032ded0c9e964b490c1a42b8a1d7cc82\transformed\ui-test-manifest-1.6.6\res
+com.example.lab3projekt.app-foundation-release-1 C:\Users\Piotr\.gradle\caches\transforms-4\072b1ef05780dae8ad63a7f94286a621\transformed\foundation-release\res
+com.example.lab3projekt.app-lifecycle-viewmodel-release-2 C:\Users\Piotr\.gradle\caches\transforms-4\0a8267c84a3258e24556243a4c522eaf\transformed\lifecycle-viewmodel-release\res
+com.example.lab3projekt.app-annotation-experimental-1.4.0-3 C:\Users\Piotr\.gradle\caches\transforms-4\12817ba5923b84d83199764cab386082\transformed\annotation-experimental-1.4.0\res
+com.example.lab3projekt.app-ui-util-release-4 C:\Users\Piotr\.gradle\caches\transforms-4\1781fbe13cb1695279ee66be4420dc0c\transformed\ui-util-release\res
+com.example.lab3projekt.app-core-1.13.1-5 C:\Users\Piotr\.gradle\caches\transforms-4\1f1d9947b7e3164fac7295a0ebdca6fb\transformed\core-1.13.1\res
+com.example.lab3projekt.app-lifecycle-livedata-core-2.8.6-6 C:\Users\Piotr\.gradle\caches\transforms-4\34c417f262f462734cb2237cde5fcffb\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.lab3projekt.app-ui-unit-release-7 C:\Users\Piotr\.gradle\caches\transforms-4\383af45e7f87a240c90de937636cc741\transformed\ui-unit-release\res
+com.example.lab3projekt.app-animation-core-release-8 C:\Users\Piotr\.gradle\caches\transforms-4\39712f4dcd9b8749aaa5ce6c6a359079\transformed\animation-core-release\res
+com.example.lab3projekt.app-lifecycle-runtime-release-9 C:\Users\Piotr\.gradle\caches\transforms-4\3a089c837e2d810b9e4b83a30e6b8f75\transformed\lifecycle-runtime-release\res
+com.example.lab3projekt.app-foundation-layout-release-10 C:\Users\Piotr\.gradle\caches\transforms-4\3bafe97bc2dd7db97c5548ce4e75b451\transformed\foundation-layout-release\res
+com.example.lab3projekt.app-savedstate-ktx-1.2.1-11 C:\Users\Piotr\.gradle\caches\transforms-4\4005024c75723b1121704e4c7bf10f35\transformed\savedstate-ktx-1.2.1\res
+com.example.lab3projekt.app-lifecycle-viewmodel-savedstate-2.8.6-12 C:\Users\Piotr\.gradle\caches\transforms-4\5ad4843d0bcec9e7c3f558c74ef8bd0a\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.lab3projekt.app-profileinstaller-1.3.1-13 C:\Users\Piotr\.gradle\caches\transforms-4\62c459232a39efa4f7a4554df26a7f04\transformed\profileinstaller-1.3.1\res
+com.example.lab3projekt.app-savedstate-1.2.1-14 C:\Users\Piotr\.gradle\caches\transforms-4\65875b032507db24bc2097dc6ca6e1aa\transformed\savedstate-1.2.1\res
+com.example.lab3projekt.app-ui-graphics-release-15 C:\Users\Piotr\.gradle\caches\transforms-4\6abb181f07436bd450b4949fe95866ef\transformed\ui-graphics-release\res
+com.example.lab3projekt.app-lifecycle-viewmodel-ktx-2.8.6-16 C:\Users\Piotr\.gradle\caches\transforms-4\6adad30d602d5a66ef61af4602e4ee47\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.example.lab3projekt.app-ui-tooling-data-release-17 C:\Users\Piotr\.gradle\caches\transforms-4\6ec744738ddf0d60485b2609cf4540b5\transformed\ui-tooling-data-release\res
+com.example.lab3projekt.app-runtime-release-18 C:\Users\Piotr\.gradle\caches\transforms-4\6f0a2d196bcb15e433564517ceac4ee2\transformed\runtime-release\res
+com.example.lab3projekt.app-material-release-19 C:\Users\Piotr\.gradle\caches\transforms-4\6fcc777cdcd574de35f44fe46fd0e313\transformed\material-release\res
+com.example.lab3projekt.app-activity-ktx-1.9.3-20 C:\Users\Piotr\.gradle\caches\transforms-4\7313fab8c592213031676cf21bba2874\transformed\activity-ktx-1.9.3\res
+com.example.lab3projekt.app-material-icons-core-release-21 C:\Users\Piotr\.gradle\caches\transforms-4\8893324d3ed76db26ad94a952858435a\transformed\material-icons-core-release\res
+com.example.lab3projekt.app-activity-compose-1.9.3-22 C:\Users\Piotr\.gradle\caches\transforms-4\8a311f0fec30728530cbd2eaf575fa50\transformed\activity-compose-1.9.3\res
+com.example.lab3projekt.app-material-icons-extended-release-23 C:\Users\Piotr\.gradle\caches\transforms-4\8ee01dfb17171c3ea1f38e09184ab90d\transformed\material-icons-extended-release\res
+com.example.lab3projekt.app-lifecycle-runtime-ktx-release-24 C:\Users\Piotr\.gradle\caches\transforms-4\a1103faf341a29fec8c9176c77f38c64\transformed\lifecycle-runtime-ktx-release\res
+com.example.lab3projekt.app-ui-release-25 C:\Users\Piotr\.gradle\caches\transforms-4\a1169f018d0b958f2ddac21a9b1b49a1\transformed\ui-release\res
+com.example.lab3projekt.app-core-runtime-2.2.0-26 C:\Users\Piotr\.gradle\caches\transforms-4\a1fbb228ca113886da0cb9f78dcc66c7\transformed\core-runtime-2.2.0\res
+com.example.lab3projekt.app-lifecycle-process-2.8.6-27 C:\Users\Piotr\.gradle\caches\transforms-4\a49996e635b61529733e588ebaadbe5f\transformed\lifecycle-process-2.8.6\res
+com.example.lab3projekt.app-ui-tooling-release-28 C:\Users\Piotr\.gradle\caches\transforms-4\a6f4af96c77f937f6d6c6d31cdf76723\transformed\ui-tooling-release\res
+com.example.lab3projekt.app-customview-poolingcontainer-1.0.0-29 C:\Users\Piotr\.gradle\caches\transforms-4\aee7873587646ca072c950bb0791a009\transformed\customview-poolingcontainer-1.0.0\res
+com.example.lab3projekt.app-startup-runtime-1.1.1-30 C:\Users\Piotr\.gradle\caches\transforms-4\b32f6b25c12d03c11e323f502cc85cf9\transformed\startup-runtime-1.1.1\res
+com.example.lab3projekt.app-animation-release-31 C:\Users\Piotr\.gradle\caches\transforms-4\b7866190e3da75f0038d1a4bde084654\transformed\animation-release\res
+com.example.lab3projekt.app-material3-release-32 C:\Users\Piotr\.gradle\caches\transforms-4\bf7de4f7d15817f43e6e4d1d923305ff\transformed\material3-release\res
+com.example.lab3projekt.app-ui-text-release-33 C:\Users\Piotr\.gradle\caches\transforms-4\c4b0562c5ec7d9abdba28185fb39ee7a\transformed\ui-text-release\res
+com.example.lab3projekt.app-material-ripple-release-34 C:\Users\Piotr\.gradle\caches\transforms-4\cb2e6f51e70028e0f83ad838d05ccac2\transformed\material-ripple-release\res
+com.example.lab3projekt.app-emoji2-1.3.0-35 C:\Users\Piotr\.gradle\caches\transforms-4\cfc27c9fed9c56011fe49151beacef9f\transformed\emoji2-1.3.0\res
+com.example.lab3projekt.app-ui-tooling-preview-release-36 C:\Users\Piotr\.gradle\caches\transforms-4\ddf870c088d222665c23d22b62093f0f\transformed\ui-tooling-preview-release\res
+com.example.lab3projekt.app-core-ktx-1.13.1-37 C:\Users\Piotr\.gradle\caches\transforms-4\e6c7b1065d2510d63b0bbe4644a9d2fc\transformed\core-ktx-1.13.1\res
+com.example.lab3projekt.app-ui-geometry-release-38 C:\Users\Piotr\.gradle\caches\transforms-4\ed2e770ef77dfbf70536485101b51598\transformed\ui-geometry-release\res
+com.example.lab3projekt.app-activity-1.9.3-39 C:\Users\Piotr\.gradle\caches\transforms-4\ef4c96b776623a27e0ef97eca0111c39\transformed\activity-1.9.3\res
+com.example.lab3projekt.app-runtime-saveable-release-40 C:\Users\Piotr\.gradle\caches\transforms-4\f329e251318a83d04b11d6f6b2a17388\transformed\runtime-saveable-release\res
+com.example.lab3projekt.app-resValues-41 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab3\Lab3 pliki\app\build\generated\res\resValues\debug
+com.example.lab3projekt.app-packageDebugResources-42 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab3\Lab3 pliki\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lab3projekt.app-packageDebugResources-43 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab3\Lab3 pliki\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lab3projekt.app-debug-44 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab3\Lab3 pliki\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.lab3projekt.app-debug-45 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab3\Lab3 pliki\app\src\debug\res
+com.example.lab3projekt.app-main-46 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Lab3\Lab3 pliki\app\src\main\res
