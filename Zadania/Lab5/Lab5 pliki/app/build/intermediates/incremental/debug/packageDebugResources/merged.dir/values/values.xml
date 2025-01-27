@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="songs">
+        <item>bylas_dla_mnie_wszystkim</item>
+        <item>czerwone_wino</item>
+        <item>daddy_cool</item>
+        <item>dark_horse</item>
+    </string-array>
+    <string-array name="video">
+        <item>chomik_na_kamerce</item>
+        <item>zepsuty_chomik</item>
+        <item>pawel_jumper</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Lab5 projekt</string>
+    <style name="Theme.Lab5Projekt" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
