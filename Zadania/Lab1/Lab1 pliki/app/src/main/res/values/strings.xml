@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Lab1 Projekt</string>
+    <string name="left_btn">Cześć!</string>
+    <string name="right_btn">Dzień dobry!</string>
+    <string name="hi_msg">Witam!</string>
+    <string name="toast">Toast</string>
+</resources>
