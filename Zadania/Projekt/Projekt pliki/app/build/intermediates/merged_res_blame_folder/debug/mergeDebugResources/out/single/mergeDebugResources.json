@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_showers_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\showers_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_haze_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\haze_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_light_rain_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\light_rain_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_rain_freezing_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\rain_freezing_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_heavy_snow_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\heavy_snow_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_tornado_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\tornado_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_sleet_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\sleet_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_thunderstorm_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\thunderstorm_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_light_snow_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\light_snow_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_pen_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\pen_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_windy_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\windy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_cloudy_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\cloudy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\xml_app_widget_info.xml.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\xml\\app_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_drizzle_freezing_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\drizzle_freezing_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_hail_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\hail_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_drizzle_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\drizzle_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_clear_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\clear_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_snow_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\snow_icon.png"
+    },
+    {
+        "merged": "com.example.testdht.app-debug-70:/drawable_pen_icon.png.flat",
+        "source": "com.example.testdht.app-main-72:/drawable/pen_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_partly_cloudy_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\partly_cloudy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_hurricane_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\hurricane_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_overcast_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\overcast_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_moon_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\moon_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_fog_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\fog_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_heavy_rain_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\heavy_rain_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_light_freezing_rain_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\light_freezing_rain_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_sunny_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\sunny_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_sun_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\sun_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_heavy_freezing_rain_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\heavy_freezing_rain_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_blizzard_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\blizzard_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_rain_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\rain_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-debug-70:\\drawable_question_icon.png.flat",
+        "source": "C:\\Users\\Piotr\\.gradle\\daemon\\8.7\\com.example.testdht.app-main-72:\\drawable\\question_icon.png"
+    }
+]
