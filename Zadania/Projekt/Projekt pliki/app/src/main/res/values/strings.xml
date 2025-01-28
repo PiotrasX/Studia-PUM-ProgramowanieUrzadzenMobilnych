@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stacja pogodowa</string>
+    <string name="widget_api_label">Pogoda z API</string>
+    <string name="widget_api_description">Aktualna pogoda z API</string>
+</resources>
