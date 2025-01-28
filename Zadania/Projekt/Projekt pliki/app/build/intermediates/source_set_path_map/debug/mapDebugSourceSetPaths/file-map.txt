@@ -1,0 +1,72 @@
+com.example.testdht.app-animation-release-0 C:\Users\Piotr\.gradle\caches\transforms-4\072f95b8e8afb71ea9e7fc6051c0cd08\transformed\animation-release\res
+com.example.testdht.app-navigation-compose-2.8.3-1 C:\Users\Piotr\.gradle\caches\transforms-4\097533368bdb088484c2838b2b514662\transformed\navigation-compose-2.8.3\res
+com.example.testdht.app-material-icons-core-release-2 C:\Users\Piotr\.gradle\caches\transforms-4\0b96d7f1e1d8d10cb871b4d02bec526d\transformed\material-icons-core-release\res
+com.example.testdht.app-activity-1.9.2-3 C:\Users\Piotr\.gradle\caches\transforms-4\0dc5cd91d5d36fe5c37ec820a8e98502\transformed\activity-1.9.2\res
+com.example.testdht.app-tracing-1.1.0-4 C:\Users\Piotr\.gradle\caches\transforms-4\136bd1124775744e08263ed780594b81\transformed\tracing-1.1.0\res
+com.example.testdht.app-lifecycle-livedata-2.8.6-5 C:\Users\Piotr\.gradle\caches\transforms-4\14e9025eed8fc158791a5ec2a5984fd0\transformed\lifecycle-livedata-2.8.6\res
+com.example.testdht.app-lifecycle-runtime-ktx-release-6 C:\Users\Piotr\.gradle\caches\transforms-4\1614f764d3e55b928cd3a9c84ffe23d3\transformed\lifecycle-runtime-ktx-release\res
+com.example.testdht.app-fragment-1.3.6-7 C:\Users\Piotr\.gradle\caches\transforms-4\1bea758b02146ea80bd0abb5d7644453\transformed\fragment-1.3.6\res
+com.example.testdht.app-ui-util-release-8 C:\Users\Piotr\.gradle\caches\transforms-4\1df7a1ad3d8ea7f3aed6b8ccb8deafdf\transformed\ui-util-release\res
+com.example.testdht.app-annotation-experimental-1.4.1-9 C:\Users\Piotr\.gradle\caches\transforms-4\28e9576d24b74d6dd7010f780169e06a\transformed\annotation-experimental-1.4.1\res
+com.example.testdht.app-activity-compose-1.9.2-10 C:\Users\Piotr\.gradle\caches\transforms-4\2fce827090926c7b0b61ee90008a47e8\transformed\activity-compose-1.9.2\res
+com.example.testdht.app-core-runtime-2.2.0-11 C:\Users\Piotr\.gradle\caches\transforms-4\31682b39ce2d6b2212f0c24b4f3a25a3\transformed\core-runtime-2.2.0\res
+com.example.testdht.app-navigation-common-ktx-2.8.3-12 C:\Users\Piotr\.gradle\caches\transforms-4\32b62dcc3e3305a7d8d3a65ca006c0b8\transformed\navigation-common-ktx-2.8.3\res
+com.example.testdht.app-ui-release-13 C:\Users\Piotr\.gradle\caches\transforms-4\34ca8323b43e57b8d5d4ab512b6543bd\transformed\ui-release\res
+com.example.testdht.app-foundation-layout-release-14 C:\Users\Piotr\.gradle\caches\transforms-4\3a10992c3d1cce011eb57f8b0713d21d\transformed\foundation-layout-release\res
+com.example.testdht.app-lifecycle-process-2.8.6-15 C:\Users\Piotr\.gradle\caches\transforms-4\3a5fae4e39e3909c4a017c6a37ff465c\transformed\lifecycle-process-2.8.6\res
+com.example.testdht.app-ui-graphics-release-16 C:\Users\Piotr\.gradle\caches\transforms-4\3d86191c5021b284d2687b21108b0e59\transformed\ui-graphics-release\res
+com.example.testdht.app-emoji2-1.3.0-17 C:\Users\Piotr\.gradle\caches\transforms-4\3df48d3de6052272ae53c1b2933dcfea\transformed\emoji2-1.3.0\res
+com.example.testdht.app-core-remoteviews-1.1.0-18 C:\Users\Piotr\.gradle\caches\transforms-4\415e73bf8b63ea08fb903cce8606c6c6\transformed\core-remoteviews-1.1.0\res
+com.example.testdht.app-core-1.6.1-19 C:\Users\Piotr\.gradle\caches\transforms-4\47dabd4ef327cafcf43ed7fde6beb66d\transformed\core-1.6.1\res
+com.example.testdht.app-graphics-path-1.0.1-20 C:\Users\Piotr\.gradle\caches\transforms-4\49980ed3950f1fb07e6e1ce03e6b36f3\transformed\graphics-path-1.0.1\res
+com.example.testdht.app-navigation-runtime-2.8.3-21 C:\Users\Piotr\.gradle\caches\transforms-4\4af3c036d2cac8a95b96360d91e15cb1\transformed\navigation-runtime-2.8.3\res
+com.example.testdht.app-animation-core-release-22 C:\Users\Piotr\.gradle\caches\transforms-4\4dc5e77300962bd01b33c1c5e024512d\transformed\animation-core-release\res
+com.example.testdht.app-datastore-preferences-1.0.0-23 C:\Users\Piotr\.gradle\caches\transforms-4\5308f26ec26bff54e05e5a33d5966f45\transformed\datastore-preferences-1.0.0\res
+com.example.testdht.app-customview-poolingcontainer-1.0.0-24 C:\Users\Piotr\.gradle\caches\transforms-4\53571fe26a89cc45d597ea1b6a873b74\transformed\customview-poolingcontainer-1.0.0\res
+com.example.testdht.app-savedstate-ktx-1.2.1-25 C:\Users\Piotr\.gradle\caches\transforms-4\594cb6822f40d6c18bcca7d12bbc95af\transformed\savedstate-ktx-1.2.1\res
+com.example.testdht.app-core-1.13.1-26 C:\Users\Piotr\.gradle\caches\transforms-4\5a2e9105b00fc6b6374ded9e6ec00b37\transformed\core-1.13.1\res
+com.example.testdht.app-ui-test-manifest-1.7.2-27 C:\Users\Piotr\.gradle\caches\transforms-4\5c42e81c3a371b6697a94a597df04928\transformed\ui-test-manifest-1.7.2\res
+com.example.testdht.app-material-release-28 C:\Users\Piotr\.gradle\caches\transforms-4\5d472d56dcb1d7a0ebc822a163127740\transformed\material-release\res
+com.example.testdht.app-ui-text-release-29 C:\Users\Piotr\.gradle\caches\transforms-4\5dad77daae94cce97f3903a636d745e5\transformed\ui-text-release\res
+com.example.testdht.app-material-ripple-release-30 C:\Users\Piotr\.gradle\caches\transforms-4\63209dc38fccf9d61d8322b21b4d50d1\transformed\material-ripple-release\res
+com.example.testdht.app-lifecycle-viewmodel-release-31 C:\Users\Piotr\.gradle\caches\transforms-4\645080d46c65fd227939e665399ccf1a\transformed\lifecycle-viewmodel-release\res
+com.example.testdht.app-activity-ktx-1.9.2-32 C:\Users\Piotr\.gradle\caches\transforms-4\6ec77b0f893f8501e6944d58000f012c\transformed\activity-ktx-1.9.2\res
+com.example.testdht.app-emoji2-views-helper-1.3.0-33 C:\Users\Piotr\.gradle\caches\transforms-4\7b7e58c0a7c37d23a2019266f16de1dd\transformed\emoji2-views-helper-1.3.0\res
+com.example.testdht.app-lifecycle-runtime-release-34 C:\Users\Piotr\.gradle\caches\transforms-4\7e68a91b6ce7cfbd673810a9196224e2\transformed\lifecycle-runtime-release\res
+com.example.testdht.app-ui-tooling-data-release-35 C:\Users\Piotr\.gradle\caches\transforms-4\879f6686c4e4ec6817a4677456c1b144\transformed\ui-tooling-data-release\res
+com.example.testdht.app-appcompat-resources-1.5.1-36 C:\Users\Piotr\.gradle\caches\transforms-4\8ab43889639fa7a78150a295dfe62660\transformed\appcompat-resources-1.5.1\res
+com.example.testdht.app-runtime-release-37 C:\Users\Piotr\.gradle\caches\transforms-4\926253a87063c5da561087383cc92056\transformed\runtime-release\res
+com.example.testdht.app-ui-unit-release-38 C:\Users\Piotr\.gradle\caches\transforms-4\951b751152fd2cbc60d99d04acbbfc7b\transformed\ui-unit-release\res
+com.example.testdht.app-work-runtime-2.7.1-39 C:\Users\Piotr\.gradle\caches\transforms-4\9a8b50671829fc64f549d62d586a418f\transformed\work-runtime-2.7.1\res
+com.example.testdht.app-navigation-common-2.8.3-40 C:\Users\Piotr\.gradle\caches\transforms-4\9bb4783ea15657120588ddf32bf35a9e\transformed\navigation-common-2.8.3\res
+com.example.testdht.app-lifecycle-runtime-compose-release-41 C:\Users\Piotr\.gradle\caches\transforms-4\9e2b2f509fb4a5f1d9390c821f14a6aa\transformed\lifecycle-runtime-compose-release\res
+com.example.testdht.app-core-ktx-1.13.1-42 C:\Users\Piotr\.gradle\caches\transforms-4\a0e9bcbac916dc82be020f18382c6add\transformed\core-ktx-1.13.1\res
+com.example.testdht.app-runtime-saveable-release-43 C:\Users\Piotr\.gradle\caches\transforms-4\a158fdb3d7c270a3b31106f70e2413f8\transformed\runtime-saveable-release\res
+com.example.testdht.app-lifecycle-livedata-core-ktx-2.8.6-44 C:\Users\Piotr\.gradle\caches\transforms-4\a363dd643232485d976a96b852a6c911\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.example.testdht.app-lifecycle-livedata-core-2.8.6-45 C:\Users\Piotr\.gradle\caches\transforms-4\a568504c36487d2d7603c5a64a6f8c93\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.testdht.app-startup-runtime-1.1.1-46 C:\Users\Piotr\.gradle\caches\transforms-4\a765ea97e532e90227a1372c926929ff\transformed\startup-runtime-1.1.1\res
+com.example.testdht.app-lifecycle-viewmodel-savedstate-2.8.6-47 C:\Users\Piotr\.gradle\caches\transforms-4\a9bcff4afad651315f7dabca95e75b28\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.testdht.app-datastore-1.0.0-48 C:\Users\Piotr\.gradle\caches\transforms-4\aed612684f714ccf6c6e99da97af3a65\transformed\datastore-1.0.0\res
+com.example.testdht.app-ui-tooling-release-49 C:\Users\Piotr\.gradle\caches\transforms-4\b4db3b108ff1cd14410241619f683b6c\transformed\ui-tooling-release\res
+com.example.testdht.app-lifecycle-viewmodel-ktx-2.8.6-50 C:\Users\Piotr\.gradle\caches\transforms-4\b676fd13d66a4481f81eb38227b7e66e\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.example.testdht.app-ui-geometry-release-51 C:\Users\Piotr\.gradle\caches\transforms-4\b6aa620ef7f4461f52aa74e637696ec4\transformed\ui-geometry-release\res
+com.example.testdht.app-play-services-base-18.5.0-52 C:\Users\Piotr\.gradle\caches\transforms-4\bc3d2f12f0126bc3d9327d68ded16c3d\transformed\play-services-base-18.5.0\res
+com.example.testdht.app-foundation-release-53 C:\Users\Piotr\.gradle\caches\transforms-4\be655703377f0cff415f9cd52e596da1\transformed\foundation-release\res
+com.example.testdht.app-glance-1.1.1-54 C:\Users\Piotr\.gradle\caches\transforms-4\c9ce23e534cb71b522e49b07df190fa9\transformed\glance-1.1.1\res
+com.example.testdht.app-profileinstaller-1.3.1-55 C:\Users\Piotr\.gradle\caches\transforms-4\d0094bf2962f787d92650db7b8fff39c\transformed\profileinstaller-1.3.1\res
+com.example.testdht.app-ui-tooling-preview-release-56 C:\Users\Piotr\.gradle\caches\transforms-4\d3275a0dbfb375b6449d099933c58735\transformed\ui-tooling-preview-release\res
+com.example.testdht.app-glance-appwidget-1.1.1-57 C:\Users\Piotr\.gradle\caches\transforms-4\d3d888317c7c70c6a02ffa4a0949bd79\transformed\glance-appwidget-1.1.1\res
+com.example.testdht.app-work-runtime-ktx-2.7.1-58 C:\Users\Piotr\.gradle\caches\transforms-4\e09735996c43743fb2648a720b6c2542\transformed\work-runtime-ktx-2.7.1\res
+com.example.testdht.app-lifecycle-viewmodel-compose-release-59 C:\Users\Piotr\.gradle\caches\transforms-4\e2ec463f0cd21626e2071eddadf823bd\transformed\lifecycle-viewmodel-compose-release\res
+com.example.testdht.app-navigation-runtime-ktx-2.8.3-60 C:\Users\Piotr\.gradle\caches\transforms-4\e393f31782245c553ba6eae3366909e2\transformed\navigation-runtime-ktx-2.8.3\res
+com.example.testdht.app-material3-release-61 C:\Users\Piotr\.gradle\caches\transforms-4\e4f00d0834a672e29d4a46a687ff09ad\transformed\material3-release\res
+com.example.testdht.app-play-services-basement-18.4.0-62 C:\Users\Piotr\.gradle\caches\transforms-4\e84575bd62d63310353a8cdab9e69bbd\transformed\play-services-basement-18.4.0\res
+com.example.testdht.app-appcompat-1.5.1-63 C:\Users\Piotr\.gradle\caches\transforms-4\eaa8f6f356eaf0e35071237d91139798\transformed\appcompat-1.5.1\res
+com.example.testdht.app-lifecycle-service-2.8.6-64 C:\Users\Piotr\.gradle\caches\transforms-4\ec85a84efc9b25445b23d340f6176274\transformed\lifecycle-service-2.8.6\res
+com.example.testdht.app-savedstate-1.2.1-65 C:\Users\Piotr\.gradle\caches\transforms-4\fc5f471055f4fc38b8f863ceddb71276\transformed\savedstate-1.2.1\res
+com.example.testdht.app-resValues-66 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Projekt\Projekt pliki\app\build\generated\res\resValues\debug
+com.example.testdht.app-packageDebugResources-67 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Projekt\Projekt pliki\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.testdht.app-packageDebugResources-68 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Projekt\Projekt pliki\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.testdht.app-debug-69 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Projekt\Projekt pliki\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.testdht.app-debug-70 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Projekt\Projekt pliki\app\src\debug\res
+com.example.testdht.app-main-71 C:\Users\Piotr\Desktop\Studia\Semestr 5\PUM\Zadania\Projekt\Projekt pliki\app\src\main\res
