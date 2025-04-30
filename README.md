@@ -8,21 +8,21 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Progra
 
 ## 📁 Struktura repozytorium
 
-- `Zadania` – Zadania realizowane na zajęciach i indywidualnie poza nimi. Obejmują tworzenie prostych aplikacji mobilnych z wykorzystaniem Android Studio i języka Kotlin. Każde laboratorium wprowadza nowe komponenty i funkcjonalności systemu Android, rozwijając umiejętności tworzenia aplikacji mobilnych.  
+- `Zadania` – Zadania realizowane na zajęciach i indywidualnie poza nimi. Obejmują tworzenie prostych aplikacji mobilnych z wykorzystaniem Android Studio i języka Kotlin. Każde laboratorium wprowadza nowe komponenty i funkcjonalności systemu Android, rozwijając umiejętności tworzenia aplikacji mobilnych. Podsumowaniem cyklu laboratoriów jest projekt końcowy – aplikacja "Pogoda", która wyświetla prognozę pogody dla wybranych miast oraz mierzy temperaturę, wilgotność, ciśnienie atmosferyczne i natężenie światła z wykorzystaniem płytki ESP32.  
 
 ---
 
 ## ⚙️ Wykorzystane technologie
 
 - `Język programowania:` Kotlin.  
-- `IDE:` Android Studio Ladybug.
+- `IDE:` Android Studio Ladybug.  
 
 ---
 
 ## 🔍 Zakres tematyczny
 
 - Tworzenie aplikacji Android (Jetpack Compose i XML):  
-  - Podstawy Android Studio, struktura projektu, układy i layouty.  
+  - Podstawy Android Studio, struktury projektu, układy i layouty.  
   - Tworzenie komponentów UI z użyciem XML i Compose.  
 - Intencje (Intent):  
   - Intencje jawne i niejawne.  
@@ -34,7 +34,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Progra
   - Obsługa przycisków do dzwonienia i wysyłania SMS.  
 - Multimedia:  
   - Obsługa kamery, robienie zdjęć i nagrywanie filmów.  
-  - Galeria obrazów i nawigacja między zdjęciami.  
+  - Galeria obrazów z nawigacją między zdjęciami.  
   - Odtwarzacz audio i wideo.  
 - Obsługa sensorów i API systemowych:  
   - Rozpoznawanie mowy (Speech API).  
