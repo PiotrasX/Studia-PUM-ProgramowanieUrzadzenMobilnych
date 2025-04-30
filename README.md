@@ -8,7 +8,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Progra
 
 ## 📁 Struktura repozytorium
 
-- `Zadania` – Zadania realizowane na zajęciach i indywidualnie poza nimi. Obejmują tworzenie prostych aplikacji mobilnych z wykorzystaniem Android Studio i języka Kotlin. Każde laboratorium wprowadza nowe komponenty i funkcjonalności systemu Android, rozwijając umiejętności tworzenia aplikacji mobilnych. Podsumowaniem cyklu laboratoriów jest projekt końcowy – aplikacja "Pogoda", która wyświetla prognozę pogody dla wybranych miast oraz mierzy temperaturę, wilgotność, ciśnienie atmosferyczne i natężenie światła z wykorzystaniem płytki ESP32.  
+- `Zadania/LabX/LabX pliki` – Zadania realizowane na zajęciach i indywidualnie poza nimi. Obejmują tworzenie prostych aplikacji mobilnych z wykorzystaniem Android Studio i języka Kotlin. Każde laboratorium wprowadza nowe komponenty i funkcjonalności systemu Android, rozwijając umiejętności tworzenia aplikacji mobilnych. Podsumowaniem cyklu laboratoriów jest projekt końcowy – aplikacja "Pogoda", która wyświetla prognozę pogody dla wybranych miast oraz mierzy temperaturę, wilgotność, ciśnienie atmosferyczne i natężenie światła z wykorzystaniem płytki ESP32.  
 
 ---
 
