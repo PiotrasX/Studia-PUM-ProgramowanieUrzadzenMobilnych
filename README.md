@@ -1,6 +1,6 @@
 # 📘 Studia - PUM - Programowanie Urządzeń Mobilnych
 
-Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Programowanie Urządzeń Mobilnych**, realizowanego na Uniwersytecie Rzeszowskim podczas piątego (5) semestru studiów informatycznych.  
+Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Programowanie Urządzeń Mobilnych**, realizowanego na Uniwersytecie Rzeszowskim podczas piątego (5) semestru studiów inżynierskich na kierunku Informatyka.  
 
 &nbsp;  
 
@@ -8,14 +8,15 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Progra
 
 ## 📁 Struktura repozytorium
 
-- `Zadania/LabX/LabX pliki` – Zadania realizowane na zajęciach i indywidualnie poza nimi. Obejmują tworzenie prostych aplikacji mobilnych z wykorzystaniem Android Studio i języka Kotlin. Każde laboratorium wprowadza nowe komponenty i funkcjonalności systemu Android, rozwijając umiejętności tworzenia aplikacji mobilnych. Podsumowaniem cyklu laboratoriów jest projekt końcowy – aplikacja "Pogoda", która wyświetla prognozę pogody dla wybranych miast oraz mierzy temperaturę, wilgotność, ciśnienie atmosferyczne i natężenie światła z wykorzystaniem płytki ESP32.  
+- `Zadania/LabX` – Zadania realizowane na zajęciach i indywidualnie poza nimi w Android Studio z wykorzystaniem języka Kotlin. Ćwiczenia obejmowały tworzenie aplikacji z użyciem XML oraz Jetpack Compose, obsługę cyklu życia aktywności, intencji (jawnych i niejawnych), RecyclerView i adapterów, pracę z Content Provider oraz uprawnieniami systemowymi. W ramach laboratoriów implementowano również obsługę multimediów, kamery, galerii, latarki oraz czujnika natężenia światła.  
+- `Zadania/Projekt` – Projekt końcowy polegający na stworzeniu aplikacji mobilnej "Pogoda", integrującej dane pogodowe oraz komunikację z mikrokontrolerem ESP32. Aplikacja prezentuje parametry środowiskowe (temperatura, wilgotność, ciśnienie atmosferyczne, natężenie światła) oraz implementuje interfejs użytkownika zgodny z zasadami Android UI.  
 
 ---
 
 ## ⚙️ Wykorzystane technologie
 
-- `Język programowania:` Kotlin.  
-- `IDE:` Android Studio Ladybug.  
+- `Technologie:` Kotlin.  
+- `Środowiska programistyczne (IDE):` Android Studio Ladybug.  
 
 ---
 
