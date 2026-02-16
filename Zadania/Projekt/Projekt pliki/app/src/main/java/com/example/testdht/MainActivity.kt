@@ -492,8 +492,7 @@ fun MainScreen() {
                                 val temperatureRounded = BigDecimal(temperature).setScale(1, RoundingMode.HALF_UP).toDouble()
                                 val humidity = json.optDouble("humidity", Double.NaN)
                                 val humidityRounded = BigDecimal(humidity).setScale(1, RoundingMode.HALF_UP).toDouble()
-                                var pressure = json.optDouble("pressure", Double.NaN) - 1100
-                                if (pressure > 1070) pressure -= 130
+                                val pressure = json.optDouble("pressure", Double.NaN)
                                 val pressureRounded = BigDecimal(pressure).setScale(1, RoundingMode.HALF_UP).toDouble()
                                 val lux = json.optDouble("lux", Double.NaN)
                                 val luxRounded = BigDecimal(lux).setScale(1, RoundingMode.HALF_UP).toDouble()
