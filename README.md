@@ -1,4 +1,4 @@
-# 📘 Studia – PUM - Programowanie Urządzeń Mobilnych
+# 📘 Studia – PUM – Programowanie Urządzeń Mobilnych
 
 Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Programowanie Urządzeń Mobilnych**, realizowanego na Uniwersytecie Rzeszowskim podczas piątego (5) semestru studiów inżynierskich na kierunku Informatyka.  
 
